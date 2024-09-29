@@ -24,4 +24,4 @@
 ## Favorite Websites 
  * [Pinterest](https://www.pinterest.com/) - I love using Pinterest as a resource for all sorts of home and gardening projects. Piterest is also a great place for recipes!
  * [YouTube](https://www.youtube.com/) - YouTube has been an indespensible resource for everything from home improvement projects and car repairs to calculus and computer skills.
- * [CiscoSkillsForAll(https://www.netacad.com/) - Cisco Skills has been really helpful this semester in builidng up a basic understanding of networks 
+ * [CiscoSkillsForAll](https://www.netacad.com/) - Cisco Skills has been really helpful this semester in builidng up a basic understanding of networks 
