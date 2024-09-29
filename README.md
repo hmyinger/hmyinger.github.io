@@ -13,3 +13,13 @@
 ## 4. A brief description of the steps you took to clone the repository onto your local machine 
 *After downloading GitHub Desktop and logging in, the first screen prompts you to clone whichever repositories you would like to work on locally. After selecting the repository for this assignment, I clicked the "clone" button. 
 
+# About Me 
+
+## My Interests and Hobbies
+ * Pretty much anything outdoors (climbing, hiking, camping, etc.)
+ * Gardening, particularly anything you can cook with
+ * Academically I enjoy natural sciences and algebra based mathematics quite a lot
+
+## Favorite Websites 
+ * [Pinterest](https://www.pinterest.com/) - I love using Pinterest as a resource for all sorts of home and gardening projects. Piterest is also a great place for recipes!
+ * [YouTube](https://www.youtube.com/) - YouTube has been an indespensible resource for everything from home improvement projects and car repairs to calculus and computer skills.
